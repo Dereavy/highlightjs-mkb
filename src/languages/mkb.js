@@ -7,8 +7,6 @@ Category: scripting
 */
 // node tools/build.js -n mkb
 
-import { KEYWORDS } from "./lib/ecmascript";
-
 export default function(hljs) {
 
     const MKB_ACTIONS = [
